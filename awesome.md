@@ -25,8 +25,6 @@ But **what is awesome?**
         - [API Documentation](#api-documentation)
     - [Software Tests](#software-tests)
 
-
-
 # Choose an appropriate license
 
 Need help?
@@ -108,8 +106,8 @@ Awesome software is easy to install, beautifully documented with great examples 
 
 For a project to be awesome, documentation should be awesome. Look at our awesome list, we're trying to make this look good and people appreciate it. All of this was achieved with good formatting via [Markdown](https://en.wikipedia.org/wiki/Markdown) in the Readme. If you really enjoy a project, but find the documentation is weak, that might be a great way to contribute to that project!
 
-### Readme
-The readme of the repository should be well formatted and contain the gist of the project, and links all the following points, that ideally should be part of the larger documentation.
+### README
+The README of the repository should be well formatted and contain the gist of the project, and links all the following points, that ideally should be part of the larger documentation.
 
 ### Installation Instructions
 
@@ -147,7 +145,7 @@ Tests can also be non-applicable for certain projects and are sometimes really h
 
 ## Development Status
 
-Software can be in very different status and an awsome software will tell their users. `In-development` does not mean bad, because others might work on similar problems and this way you can join forces. However, code that is barely functional, claiming to cover a whole topic but offering only a fragment promised is not awesome. Nobody likes to end up with a `NotImplementedError` on every API endpoint.
+Software can be in very different status and an awesome software will tell their users. `In-development` does not mean bad, because others might work on similar problems and this way you can join forces. However, code that is barely functional, claiming to cover a whole topic but offering only a fragment promised is not awesome. Nobody likes to end up with a `NotImplementedError` on every API endpoint.
 You can refer to the list of [trove classifiers defined by PyPI](https://pypi.org/classifiers/), which do also apply to other languages to indicate your development status. Additionally, it's absolutely awesome to stick to [semantic versioning](https://semver.org/).
 
     Uber-Awesome: You are awesome and integrated the classifiers directly with PyPI making the software 
